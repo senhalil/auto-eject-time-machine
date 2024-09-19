@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>com.username.timeMachineScript</string>
+    <string>local.username.timeMachineScript</string>
     <key>ProcessType</key>
     <string>Adaptive</string>
     <key>ProgramArguments</key>
@@ -13,12 +13,12 @@
     <key>StartOnMount</key>
     <true/>
     <key>StartInterval</key>
-    <integer>3300</integer>
+    <integer>2000</integer>
     <key>RunAtLoad</key>
     <true/>
     <key>StandardOutPath</key>
-    <string>/tmp/com.username.timeMachineScript.log</string>
+    <string>/tmp/local.username.timeMachineScript.log</string>
     <key>StandardErrorPath</key>
-    <string>/tmp/com.username.timeMachineScript.log</string>
+    <string>/tmp/local.username.timeMachineScript.log</string>
 </dict>
 </plist>
